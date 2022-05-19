@@ -6,7 +6,7 @@
 #include <float.h>
 
 #include "engine_common.h"
-#include "util.h"
+#include "ogldev_util.h"
 #include "pipeline.h"
 #include "camera.h"
 #include "ogldev_texture.h"

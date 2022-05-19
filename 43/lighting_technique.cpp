@@ -5,7 +5,7 @@
 
 
 #include "lighting_technique.h"
-#include "util.h"
+#include "ogldev_util.h"
 
 using namespace std;
 

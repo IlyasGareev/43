@@ -13,7 +13,7 @@
 #include <assimp/matrix3x3.h>
 #include <assimp/matrix4x4.h>
 
-#include "util.h"
+#include "ogldev_util.h"
 
 #define ToRadian(x) (float)(((x) * 3.14f / 180.0f))
 #define ToDegree(x) (float)(((x) * 180.0f / 3.14f))
